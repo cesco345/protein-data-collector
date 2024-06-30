@@ -1,0 +1,13 @@
+{
+  "name": "protein-data-collector",
+  "version": "1.0.0",
+  "description": "A tool for collecting protein data from UniProt and PDB.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "type": "module"
+}
